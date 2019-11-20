@@ -1,0 +1,35 @@
+
+p{
+
+	font-family: timesnewroman;
+}
+
+.select1
+{
+	font-size: 42px;
+	color: darkgreen;
+	text-align: right;
+}
+
+/*.select2
+{
+	font-size: 22px; 
+	color: red;
+	text-align: center;
+	font-style: italic;
+}*/
+
+.select3
+{
+	font-size: 22px;
+	color: red;
+	text-align: center;
+	font-style: italic;
+}
+
+.select2
+{
+	font-size: 32px;
+	color: gray;
+	font-style: Bold;
+}

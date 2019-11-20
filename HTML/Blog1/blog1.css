@@ -1,0 +1,37 @@
+body{
+
+	border: 20px solid #bdc3c7;
+	padding: 20px;
+	max-width: 700px;
+	width: 80%;
+	margin: 20px auto;
+	font-family: 'Source Serif Pro', serif;
+}
+
+.quote{
+	border-left: 5px solid #bdc3c7;
+	padding-left: 5px;
+}
+
+
+
+.date{
+
+ color:#3498db;
+ text-transform: uppercase;
+ letter-spacing: 0.2rem;  
+}
+
+h1{
+	color: #2c3e50;
+	font-size: 2.0rem;
+}
+
+hr {
+border: 0;
+height: 15%;
+margin: 0 auto;
+background-image: url(https://producersinc.us/wp-content/uploads/2018/06/Border-1475985724.png);
+background-repeat: no-repeat;
+background-size: cover;
+}

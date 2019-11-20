@@ -1,0 +1,3 @@
+https://vss-smartseat.vodafone.com
+https://cass-shared.internal.vodafone.com/Citrix/Cass-IT/site/default.aspx?CTX_CurrentTab=Desktops
+https://tssc-alm-prod.vodafone.com/qcbin/start_a.jsp

@@ -1,0 +1,14 @@
+<html>
+<head>
+	<title> Image Gallery</title>
+	<link rel="stylesheet" type="text/css" href="I:\Web_developer_bootcamp\HTML\Bootstrap\bootstrap-3.3.7-dist\css\bootstrap.css">
+</head>
+<body>
+<div class="jumbotron"> The Image Gallery </div>
+
+
+<script src="http://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="I:\Web_developer_bootcamp\HTML\Bootstrap\bootstrap-3.3.7-dist\js\bootstrap.js"></script>
+
+</body>
+</html>

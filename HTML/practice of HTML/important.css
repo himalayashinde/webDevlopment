@@ -1,0 +1,32 @@
+h1
+{
+background: red;
+font-size: 50px;
+font-style: italic;
+border: solid 2px; 
+border-color: orange;
+border-width: 10px;
+
+}
+
+h2
+{
+	text-align: center;
+	font-style: bold;
+	border: solid 2px;
+	border-color: blue;
+	border-width: 10px;
+
+}
+
+li{
+	background: #0b746b; 
+	font-style: italic;
+	font-size: 30px;
+	
+}
+
+body{
+background: pink;
+/*	background: url(https://www.pixelstalk.net/wp-content/uploads/2016/07/Pictures-3D-HD-Nature.jpg);*/
+}

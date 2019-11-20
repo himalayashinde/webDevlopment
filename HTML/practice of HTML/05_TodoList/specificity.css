@@ -1,0 +1,26 @@
+ul{
+
+	font-style: italic;
+	color: white;
+}
+
+h1{
+
+	font-size: 40px;
+	background: #e91e63; 
+	text-align: center;
+    text-shadow: burlywood;
+    color: #73230f;
+}
+
+*{
+	
+	background: transparent url(http://www.quoteambition.com/wp-content/uploads/2017/04/friendship-quote-great-gift.png);
+	/*height: 100%;*/ 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
